@@ -1,0 +1,4 @@
+TestID,Username,Password,ExpectedOutcome
+TC001,tomsmith,SuperSecretPassword!,Success
+TC002,tomsmith,wrongpassword,InvalidPassword
+TC003,wrongusername,SuperSecretPassword!,InvalidUsername

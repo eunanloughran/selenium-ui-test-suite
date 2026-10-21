@@ -1,0 +1,5 @@
+TestID,Filename,ExpectedResult
+FU1,real_file.txt,SUCCESS
+FU2,image.jpeg,SUCCESS
+FU3,non_existent.txt,FAILURE
+FU4,missing.pdf,FAILURE

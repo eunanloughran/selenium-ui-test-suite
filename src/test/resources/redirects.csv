@@ -1,0 +1,7 @@
+TestID,StatusCode,ExpectedPath,IsValid
+REDRI1,200,/status_codes/200,true
+REDRI2,301,/status_codes/301,true
+REDRI3,404,/status_codes/404,true
+REDRI4,500,/status_codes/500,true
+REDRI5,400,/status_codes/400,false
+REDRI6,999,/status_codes/999,false

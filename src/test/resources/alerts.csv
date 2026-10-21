@@ -1,0 +1,5 @@
+TestID,ButtonText,ExpectedResult,AlertInput,IsValid
+VE1,Click for JS Alert,You successfully clicked an alert,,true
+VE2,Click for JS Confirm,You clicked: Ok,,true
+VE3,Click for JS Prompt,You entered: hello,hello,true
+VE4,Invalid Alert Button,,,false
